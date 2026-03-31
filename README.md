@@ -3,14 +3,14 @@
 Este es mi primer repositorio. Aquí empecé a trabajar con GitHub.
 ## ✅ Respuestas
 ### 🧪 ¿Qué hice aquí?
-(Creé una cuenta y cree mi primer proyecto, en el cual establecí parametros que guiaran su desarrollo)
+Puse los parametros para mi primer proyecto
 ### 😮 ¿Qué es GitHub?
-(Una herramienta digital que se usa para crear ramas de un proyecto y guardar todos los pasos realizados como en una linea de tiempo)
+Aplicación que gusrdo el proceso y etapas de código de un proyecto
 ### 🎯 ¿Para qué me sirve?
-(Para no perder antiguos procesos y poder recuperar todos los cambios en el proyecto))
+Para poder recuperar antiguas lineas de codigo en diferentes fases del proceso
 ## ✍️ Mi progreso
 Aquí ya realicé varios cambios en GitHub.
-15%
+60%
 ## 👤 Sobre mí
 Nombre:Franco Haro
-Curso: Diploma 1 "D"
+Curso: Diploma 1 D
